@@ -100,5 +100,73 @@
       "btn_cursor_black": "big black<br>cursor",
       "btn_zoom_in": "zoom<br>screen"
     }
+  },
+  "hr": {
+    "btn_open": "postavke pristupačnosti",
+    "btn_close": "zatvori",
+    "keyboard_root": "navigacija tipkovnicom",
+    "disable_animattions": "blokiraj animacije",
+    "access_declaration": "izjava o pristupačnosti",
+    "debug_contacts": "prijavi problem",
+    "reset_all_settings": "vrati originalne postavke",
+    "image_without_alt": "slika bez opisa",
+    "contrast_block": {
+      "header": "kontrast",
+      "btn_monochrome": "sivi<br>tonovi",
+      "btn_bright": "svijetli<br>kontrast",
+      "btn_invert": "negativni<br>kontrast"
+    },
+    "text_block": {
+      "header": "tekst",
+      "btn_font_up": "povećaj<br>tekst",
+      "btn_font_down": "smanji<br>tekst",
+      "btn_font_readable": "čitljiv<br>font"
+    },
+    "content_block": {
+      "header": "isticanje sadržaja",
+      "btn_underline_links": "podcrtaj<br>poveznice",
+      "btn_underline_headers": "podcrtaj<br>naslove",
+      "btn_images_titles": "nazivi<br>slika"
+    },
+    "zoom_block": {
+      "header": "uvećanje",
+      "btn_cursor_white": "veliki bijeli<br>kursor",
+      "btn_cursor_black": "veliki crni<br>kursor",
+      "btn_zoom_in": "uvećaj<br>sadržaj"
+    }
+  },
+  "it": {
+    "btn_open": "menu di accessibilità",
+    "btn_close": "chiudi",
+    "keyboard_root": "navigazione da tastiera",
+    "disable_animattions": "bloccare le animazioni",
+    "access_declaration": "dichiarazione di accessibilità",
+    "debug_contacts": "segnalare un problema di accessibilità",
+    "reset_all_settings": "ripristina le impostazioni",
+    "image_without_alt": "immagine senza testo",
+    "contrast_block": {
+      "header": "contrasto di colore",
+      "btn_monochrome": "display<br>incolore",
+      "btn_bright": "contrasto<br>luminoso",
+      "btn_invert": "contrasto<br>inverso"
+    },
+    "text_block": {
+      "header": "dimensione del testo",
+      "btn_font_up": "aumentare<br>il testo",
+      "btn_font_down": "diminuire<br>il testo",
+      "btn_font_readable": "testo<br>leggibile"
+    },
+    "content_block": {
+      "header": "evidenziando il contenuto",
+      "btn_underline_links": "sottolineare<br>i link",
+      "btn_underline_headers": "sottolinea<br>le intestazioni",
+      "btn_images_titles": "titoli<br>delle immagini"
+    },
+    "zoom_block": {
+      "header": "ingrandire",
+      "btn_cursor_white": "grande cursore<br>bianco",
+      "btn_cursor_black": "grande cursore<br>nero",
+      "btn_zoom_in": "schermo<br>zoom"
+    }
   }
 }
